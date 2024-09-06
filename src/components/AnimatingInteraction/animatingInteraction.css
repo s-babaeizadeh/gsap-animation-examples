@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.app {
+  padding: 10px;
+  display: flex; /* Make it a flex container */
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
+.box {
+  padding: 10px;
+  cursor: pointer;
+}

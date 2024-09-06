@@ -1,0 +1,41 @@
+body {
+  background-color: var(--dark);
+  color: var(--light);
+  margin: 0;
+  padding: 0;
+  /* height: 100vh; */
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+  margin: 10px;
+  background-color: #69e4ff;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 99%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+  margin: 10px;
+  background-color: #26f18c;
+}
+
+.App,
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* min-height: 100vh; */
+}
