@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repository is dedicated to showcasing a collection of examples utilizing GSAP (GreenSock Animation Platform). Here, you'll find a variety of demonstrations that illustrate the powerful capabilities of GSAP for creating high-performance animations and interactive web experiences. Whether you are a beginner looking to learn the basics or an experienced developer seeking inspiration for advanced techniques, this repository aims to provide valuable insights and practical examples to enhance your projects.
