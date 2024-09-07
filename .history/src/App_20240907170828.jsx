@@ -11,7 +11,9 @@ const App = () => {
         <h1 className="title">GSAP</h1>
         <Animation />
         <AnimatingInteraction />
-        <Example1 />
+        <div>
+          <Example1 />
+        </div>
       </div>
     </div>
   );

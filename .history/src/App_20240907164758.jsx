@@ -10,7 +10,7 @@ const App = () => {
       <div>
         <h1 className="title">GSAP</h1>
         <Animation />
-        <AnimatingInteraction />
+        {/* <AnimatingInteraction /> */}
         <Example1 />
       </div>
     </div>

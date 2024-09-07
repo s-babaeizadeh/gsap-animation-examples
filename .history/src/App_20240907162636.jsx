@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Animation from "./components/Animation/Animation";
 import AnimatingInteraction from "./components/AnimatingInteraction/AnimatingInteraction";
-import Example1 from "./components/AdvanceedAnimation/Example1";
 
 const App = () => {
   return (
@@ -11,7 +10,6 @@ const App = () => {
         <h1 className="title">GSAP</h1>
         <Animation />
         <AnimatingInteraction />
-        <Example1 />
       </div>
     </div>
   );
