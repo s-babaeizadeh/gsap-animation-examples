@@ -1,0 +1,8 @@
+.app {
+  padding: 10px;
+}
+
+.box,
+.circle {
+  margin: 10px auto;
+}

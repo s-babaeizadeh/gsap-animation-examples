@@ -3,7 +3,6 @@ import "./App.css";
 import Animation from "./components/Animation/Animation";
 import AnimatingInteraction from "./components/AnimatingInteraction/AnimatingInteraction";
 import Example1 from "./components/AdvanceedAnimation/Example1";
-import Example2 from "./components/AdvanceedAnimation/Example2";
 
 const App = () => {
   return (
@@ -13,7 +12,6 @@ const App = () => {
         <Animation />
         <AnimatingInteraction />
         <Example1 />
-        <Example2 />
       </div>
     </div>
   );
