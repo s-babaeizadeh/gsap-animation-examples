@@ -1,16 +1,13 @@
-.App {
+.App { 
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
   background-color: black;
   background-size: cover;
+  text
 }
 
 .title {
   color: white;
   margin-top: 0;
-}
-
-label {
-  color: white; /* Set the label color to white */
 }

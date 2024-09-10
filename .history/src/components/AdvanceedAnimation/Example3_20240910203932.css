@@ -1,0 +1,20 @@
+.app {
+  padding: 10px;
+}
+
+.box {
+  margin: 10px 0;
+}
+
+label {
+  display: block;
+  color: white;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu > label {
+  margin: 0.5rem 1rem;
+}

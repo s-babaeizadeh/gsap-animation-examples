@@ -4,13 +4,10 @@
   text-align: center;
   background-color: black;
   background-size: cover;
+  color: white;
 }
 
 .title {
   color: white;
   margin-top: 0;
-}
-
-label {
-  color: white; /* Set the label color to white */
 }

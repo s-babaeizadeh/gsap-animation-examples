@@ -1,4 +1,5 @@
 .App {
+  /* max-width: 1280px; */
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -9,8 +10,4 @@
 .title {
   color: white;
   margin-top: 0;
-}
-
-label {
-  color: white; /* Set the label color to white */
 }
