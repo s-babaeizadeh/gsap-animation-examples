@@ -5,6 +5,7 @@ import AnimatingInteraction from "./components/AnimatingInteraction/AnimatingInt
 import Example1 from "./components/AdvanceedAnimation/Example1";
 import Example2 from "./components/AdvanceedAnimation/Example2";
 import Example3 from "./components/AdvanceedAnimation/Example3";
+import ExitAnimations from "./components/AdvanceedAnimation/ExitAnimations";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
         <Example1 />
         <Example2 />
         <Example3 />
+        <ExitAnimations />
       </div>
     </div>
   );
